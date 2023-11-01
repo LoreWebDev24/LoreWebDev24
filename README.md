@@ -6,13 +6,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lorewebdev24&label=Profile%20views&color=0e75b6&style=flat" alt="lorewebdev24" /> </p>
 
 
-- 🔭 I’m currently working on **Web Developing**
+- 🔭 I’m currently working on Web Developing
 
-- 🌱 I’m currently learning **in Boolean, and as freelance**
+- 🌱 I’m currently learning in Boolean, and as freelance
 
-- 👨‍💻 All of my projects are available at **this GitHub**
+- 👨‍💻 All of my projects are available at this GitHub
 
-- 📫 How to reach me **lorenzo.delre12@gmail.com and Linkedin: https://www.linkedin.com/in/lorenzo-del-re-43b05516a
+- 📫 How to reach me lorenzo.delre12@gmail.com and Linkedin: https://www.linkedin.com/in/lorenzo-del-re-43b05516a
 
 - ⚡ Fun fact **Im a Personal Trainer as well**
 
