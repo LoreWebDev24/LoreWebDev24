@@ -14,7 +14,7 @@
 
 - 📫 How to reach me lorenzo.delre12@gmail.com and Linkedin: https://www.linkedin.com/in/lorenzo-del-re-43b05516a
 
-- ⚡ Fun fact **Im a Personal Trainer as well**
+- ⚡ Fun fact **Im a PT as well**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
