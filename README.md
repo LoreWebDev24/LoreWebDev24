@@ -1,6 +1,6 @@
 <img src="https://wallpaperxyz.com/wp-content/uploads/Gif-Animated-Wallpaper-Background-Full-HD-Free-Download-for-PC-Macbook-261121-Wallpaperxyz.com-4.gif">
 <h1 align="center">Hi, I'm Lorenzo Del Re</h1>
-<h3 align="center">Web and Software Developer</h3>
+<h3 align="center">Web Developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lorewebdev24&label=Profile%20views&color=0e75b6&style=flat" alt="lorewebdev24" /> </p>
