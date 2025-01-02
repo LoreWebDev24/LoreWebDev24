@@ -12,7 +12,7 @@
 
 - 📚 All of my projects are available at this GitHub
 
-- 📫 How to reach me lorenzo.delre12@gmail.com and Linkedin: [lorenzo-del-re-43b05516a](https://www.linkedin.com/in/lorenzo-del-re-43b05516a/)
+- 📫 How to reach me: lorenzo.delre12@gmail.com 
 
 - 💪 **Im a PT as well**
 
